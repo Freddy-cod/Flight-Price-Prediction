@@ -1,2 +1,2 @@
 # Flight-Price-Prediction
-This is my first end to end data science project .
+A machine learning model that predicts flight price given different features .
